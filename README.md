@@ -18,7 +18,7 @@ Site link: http://commanderapi.canadacentral.azurecontainer.io/index.html
 > - Views (Razor, Shared Layout, ViewBag, RenderSection)
 > - Testing API Endpoints (SwaggerUI & Postman)
 > - Docker (Container, Image, Deploying on Docker Hub)
-> - Microsoft Azure (Deployment: Docker Image + SQL Database)
+
 
 *Note: Please excuse the large amount of comments in my code, they are used as notes for later review.*
 
