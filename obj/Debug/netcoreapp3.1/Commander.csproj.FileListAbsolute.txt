@@ -1,0 +1,161 @@
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/appsettings.json
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Commander.exe
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Commander.deps.json
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Commander.runtimeconfig.json
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Commander.runtimeconfig.dev.json
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Commander.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Commander.pdb
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.csprojAssemblyReference.cache
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.AssemblyInfoInputs.cache
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.AssemblyInfo.cs
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.csproj.CoreCompileInputs.cache
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.MvcApplicationPartsAssemblyInfo.cache
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.RazorTargetAssemblyInfo.cache
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/staticwebassets/Commander.StaticWebAssets.Manifest.cache
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/staticwebassets/Commander.StaticWebAssets.xml
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.pdb
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.genruntimeconfig.cache
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.csproj.CopyComplete
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/AutoMapper.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/obj/Debug/netcoreapp3.1/Commander.MvcApplicationPartsAssemblyInfo.cs
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Newtonsoft.dll
+D:/ALL/Work/Coding/VSCode/C#/RESTProject/Commander/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Annotations.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Commander.deps.json
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Commander.runtimeconfig.json
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Commander.runtimeconfig.dev.json
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Commander.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Commander.pdb
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Annotations.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Newtonsoft.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.csproj.AssemblyReference.cache
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.GeneratedMSBuildEditorConfig.editorconfig
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.AssemblyInfoInputs.cache
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.AssemblyInfo.cs
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.csproj.CoreCompileInputs.cache
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.MvcApplicationPartsAssemblyInfo.cs
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.MvcApplicationPartsAssemblyInfo.cache
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/staticwebassets/Commander.StaticWebAssets.Manifest.cache
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/staticwebassets/Commander.StaticWebAssets.xml
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/scopedcss/bundle/Commander.styles.css
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.RazorTargetAssemblyInfo.cache
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.csproj.CopyComplete
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.pdb
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/obj/Debug/netcoreapp3.1/Commander.genruntimeconfig.cache
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/FSharp.Core.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/SwaggerProvider.Runtime.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/cs/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/de/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/en/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/es/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/fr/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/it/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/ja/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/ko/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/pl/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/pt-BR/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/ru/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/tr/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/zh-Hans/FSharp.Core.resources.dll
+/Users/souhail/Projetcs/Back-End/ASP.Net/Not mine/NETCore_MVC_RESTAPI-master/.NETCore_MVC_RESTAPI-master/bin/Debug/netcoreapp3.1/zh-Hant/FSharp.Core.resources.dll
